@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/smartballseane.unity
+  isLoaded: 1
+  isActive: 1
